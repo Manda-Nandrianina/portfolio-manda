@@ -1,4 +1,4 @@
-/ Fonction générique pour afficher l'alerte
+// Fonction générique pour afficher l'alerte
 function showAlert() {
   alert("Merci d'avoir visité ce site que j'ai créé. Si mes services vous intéressent, je vous invite à m'envoyer un message sur COMEUP. Merci d'avance !");
 }
